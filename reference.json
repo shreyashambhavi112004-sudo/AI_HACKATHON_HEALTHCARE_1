@@ -1,0 +1,502 @@
+{
+  "n_images": 70,
+  "ref_sample": {
+    "particles_per_image": 67.38571428571429,
+    "median_area": 470.54285714285714,
+    "area_iqr": 759.675,
+    "mean_circularity": 0.803337104786216,
+    "clumping_score": 0.9518616870672131
+  },
+  "per_image": {
+    "image_042.tif": {
+      "n_particles": 63,
+      "median_area": 607.0,
+      "area_iqr": 975.0,
+      "mean_circularity": 0.7986396250088208,
+      "clumping_score": 0.9582047402924861
+    },
+    "image_041.tif": {
+      "n_particles": 72,
+      "median_area": 366.5,
+      "area_iqr": 746.25,
+      "mean_circularity": 0.7899026168751013,
+      "clumping_score": 0.9560942729639271
+    },
+    "image_091.tif": {
+      "n_particles": 64,
+      "median_area": 405.5,
+      "area_iqr": 766.5,
+      "mean_circularity": 0.8188188666466765,
+      "clumping_score": 0.9486871541269281
+    },
+    "image_009.tif": {
+      "n_particles": 70,
+      "median_area": 547.0,
+      "area_iqr": 1039.25,
+      "mean_circularity": 0.7711191423443305,
+      "clumping_score": 0.9559118236472945
+    },
+    "image_065.tif": {
+      "n_particles": 71,
+      "median_area": 420.0,
+      "area_iqr": 697.5,
+      "mean_circularity": 0.7997108807756885,
+      "clumping_score": 0.9546432823518637
+    },
+    "image_050.tif": {
+      "n_particles": 61,
+      "median_area": 473.0,
+      "area_iqr": 963.0,
+      "mean_circularity": 0.834342216355385,
+      "clumping_score": 0.9572553171899457
+    },
+    "image_001.tif": {
+      "n_particles": 64,
+      "median_area": 606.0,
+      "area_iqr": 714.25,
+      "mean_circularity": 0.8015827560739793,
+      "clumping_score": 0.9501717153021983
+    },
+    "image_070.tif": {
+      "n_particles": 71,
+      "median_area": 472.0,
+      "area_iqr": 806.0,
+      "mean_circularity": 0.7963331096099755,
+      "clumping_score": 0.9629040257915186
+    },
+    "image_015.tif": {
+      "n_particles": 66,
+      "median_area": 471.5,
+      "area_iqr": 507.25,
+      "mean_circularity": 0.8180991017176646,
+      "clumping_score": 0.9417463791280399
+    },
+    "image_078.tif": {
+      "n_particles": 66,
+      "median_area": 571.5,
+      "area_iqr": 1146.0,
+      "mean_circularity": 0.7908717818682663,
+      "clumping_score": 0.9565330964944361
+    },
+    "image_073.tif": {
+      "n_particles": 61,
+      "median_area": 495.0,
+      "area_iqr": 748.0,
+      "mean_circularity": 0.8115455443345986,
+      "clumping_score": 0.9514518217125948
+    },
+    "image_010.tif": {
+      "n_particles": 61,
+      "median_area": 440.0,
+      "area_iqr": 803.0,
+      "mean_circularity": 0.830136214601366,
+      "clumping_score": 0.9440698520494786
+    },
+    "image_055.tif": {
+      "n_particles": 60,
+      "median_area": 440.0,
+      "area_iqr": 627.0,
+      "mean_circularity": 0.8334488307777161,
+      "clumping_score": 0.9458432972288648
+    },
+    "image_056.tif": {
+      "n_particles": 69,
+      "median_area": 464.0,
+      "area_iqr": 812.0,
+      "mean_circularity": 0.8035935480542156,
+      "clumping_score": 0.9403408430401525
+    },
+    "image_072.tif": {
+      "n_particles": 68,
+      "median_area": 435.0,
+      "area_iqr": 791.25,
+      "mean_circularity": 0.7905979406135789,
+      "clumping_score": 0.949000981179199
+    },
+    "image_045.tif": {
+      "n_particles": 56,
+      "median_area": 592.0,
+      "area_iqr": 800.0,
+      "mean_circularity": 0.8229103546129798,
+      "clumping_score": 0.9495359628770301
+    },
+    "image_048.tif": {
+      "n_particles": 66,
+      "median_area": 524.0,
+      "area_iqr": 654.25,
+      "mean_circularity": 0.8213327391892776,
+      "clumping_score": 0.9527043775717614
+    },
+    "image_092.tif": {
+      "n_particles": 69,
+      "median_area": 377.0,
+      "area_iqr": 820.0,
+      "mean_circularity": 0.8038675813722547,
+      "clumping_score": 0.9576920340550668
+    },
+    "image_076.tif": {
+      "n_particles": 70,
+      "median_area": 358.0,
+      "area_iqr": 790.75,
+      "mean_circularity": 0.8235293186189242,
+      "clumping_score": 0.9482039230732339
+    },
+    "image_037.tif": {
+      "n_particles": 69,
+      "median_area": 404.0,
+      "area_iqr": 582.0,
+      "mean_circularity": 0.8104639741834491,
+      "clumping_score": 0.9539424837895362
+    },
+    "image_030.tif": {
+      "n_particles": 69,
+      "median_area": 440.0,
+      "area_iqr": 679.0,
+      "mean_circularity": 0.7966212742843487,
+      "clumping_score": 0.9486174473644756
+    },
+    "image_021.tif": {
+      "n_particles": 63,
+      "median_area": 731.0,
+      "area_iqr": 1243.5,
+      "mean_circularity": 0.8105235782464819,
+      "clumping_score": 0.9605172725628505
+    },
+    "image_032.tif": {
+      "n_particles": 74,
+      "median_area": 464.0,
+      "area_iqr": 761.75,
+      "mean_circularity": 0.768304175812745,
+      "clumping_score": 0.9539713892380439
+    },
+    "image_096.tif": {
+      "n_particles": 71,
+      "median_area": 400.0,
+      "area_iqr": 798.5,
+      "mean_circularity": 0.7808388847697147,
+      "clumping_score": 0.94981990094552
+    },
+    "image_080.tif": {
+      "n_particles": 67,
+      "median_area": 330.0,
+      "area_iqr": 400.0,
+      "mean_circularity": 0.8361290160075586,
+      "clumping_score": 0.9366642007625334
+    },
+    "image_049.tif": {
+      "n_particles": 73,
+      "median_area": 389.0,
+      "area_iqr": 901.0,
+      "mean_circularity": 0.7983062866914187,
+      "clumping_score": 0.9497096573742742
+    },
+    "image_083.tif": {
+      "n_particles": 68,
+      "median_area": 337.0,
+      "area_iqr": 655.25,
+      "mean_circularity": 0.819426929155509,
+      "clumping_score": 0.9319490957803082
+    },
+    "image_026.tif": {
+      "n_particles": 71,
+      "median_area": 354.0,
+      "area_iqr": 778.0,
+      "mean_circularity": 0.8180515258298103,
+      "clumping_score": 0.9405061772819959
+    },
+    "image_087.tif": {
+      "n_particles": 62,
+      "median_area": 530.5,
+      "area_iqr": 799.25,
+      "mean_circularity": 0.8155914912345225,
+      "clumping_score": 0.9643893308376228
+    },
+    "image_033.tif": {
+      "n_particles": 72,
+      "median_area": 436.0,
+      "area_iqr": 842.5,
+      "mean_circularity": 0.7869116527536018,
+      "clumping_score": 0.9594722555394231
+    },
+    "image_008.tif": {
+      "n_particles": 65,
+      "median_area": 590.0,
+      "area_iqr": 866.0,
+      "mean_circularity": 0.8292806120893823,
+      "clumping_score": 0.9548936170212766
+    },
+    "image_047.tif": {
+      "n_particles": 70,
+      "median_area": 437.5,
+      "area_iqr": 636.0,
+      "mean_circularity": 0.8197065737493651,
+      "clumping_score": 0.942852394406325
+    },
+    "image_059.tif": {
+      "n_particles": 69,
+      "median_area": 501.0,
+      "area_iqr": 637.0,
+      "mean_circularity": 0.7838018604370413,
+      "clumping_score": 0.9585178035628108
+    },
+    "image_063.tif": {
+      "n_particles": 72,
+      "median_area": 420.0,
+      "area_iqr": 529.25,
+      "mean_circularity": 0.7586811066899526,
+      "clumping_score": 0.9457543792659061
+    },
+    "image_074.tif": {
+      "n_particles": 73,
+      "median_area": 403.0,
+      "area_iqr": 576.0,
+      "mean_circularity": 0.7962156430712871,
+      "clumping_score": 0.948681495069938
+    },
+    "image_044.tif": {
+      "n_particles": 69,
+      "median_area": 501.0,
+      "area_iqr": 671.0,
+      "mean_circularity": 0.7869370303155742,
+      "clumping_score": 0.9569823221106867
+    },
+    "image_098.tif": {
+      "n_particles": 81,
+      "median_area": 378.0,
+      "area_iqr": 739.0,
+      "mean_circularity": 0.7752186778944854,
+      "clumping_score": 0.9586001394788563
+    },
+    "image_052.tif": {
+      "n_particles": 63,
+      "median_area": 433.0,
+      "area_iqr": 675.0,
+      "mean_circularity": 0.8127704204573699,
+      "clumping_score": 0.9412036799095441
+    },
+    "image_085.tif": {
+      "n_particles": 68,
+      "median_area": 606.0,
+      "area_iqr": 811.25,
+      "mean_circularity": 0.7999159661367048,
+      "clumping_score": 0.9567865045293795
+    },
+    "image_012.tif": {
+      "n_particles": 58,
+      "median_area": 716.0,
+      "area_iqr": 919.75,
+      "mean_circularity": 0.817712626457562,
+      "clumping_score": 0.9635305489548511
+    },
+    "image_036.tif": {
+      "n_particles": 66,
+      "median_area": 378.0,
+      "area_iqr": 518.25,
+      "mean_circularity": 0.8043985680326166,
+      "clumping_score": 0.9611345143978303
+    },
+    "image_023.tif": {
+      "n_particles": 67,
+      "median_area": 397.0,
+      "area_iqr": 706.5,
+      "mean_circularity": 0.7940522837046053,
+      "clumping_score": 0.9470297880700376
+    },
+    "image_039.tif": {
+      "n_particles": 72,
+      "median_area": 345.0,
+      "area_iqr": 616.75,
+      "mean_circularity": 0.8056428905625739,
+      "clumping_score": 0.9450936292964357
+    },
+    "image_040.tif": {
+      "n_particles": 66,
+      "median_area": 457.5,
+      "area_iqr": 734.25,
+      "mean_circularity": 0.8203521720727299,
+      "clumping_score": 0.9476880922479736
+    },
+    "image_018.tif": {
+      "n_particles": 73,
+      "median_area": 398.0,
+      "area_iqr": 601.0,
+      "mean_circularity": 0.7969703305918981,
+      "clumping_score": 0.9517975448168355
+    },
+    "image_066.tif": {
+      "n_particles": 68,
+      "median_area": 399.0,
+      "area_iqr": 672.75,
+      "mean_circularity": 0.8088252158561949,
+      "clumping_score": 0.9373243006590165
+    },
+    "image_061.tif": {
+      "n_particles": 64,
+      "median_area": 390.5,
+      "area_iqr": 853.25,
+      "mean_circularity": 0.8189367463072805,
+      "clumping_score": 0.9457901085645356
+    },
+    "image_060.tif": {
+      "n_particles": 63,
+      "median_area": 390.0,
+      "area_iqr": 939.0,
+      "mean_circularity": 0.8015255902359097,
+      "clumping_score": 0.9524031079886475
+    },
+    "image_007.tif": {
+      "n_particles": 69,
+      "median_area": 470.0,
+      "area_iqr": 787.0,
+      "mean_circularity": 0.8083469573174586,
+      "clumping_score": 0.9530706232938088
+    },
+    "image_034.tif": {
+      "n_particles": 67,
+      "median_area": 386.0,
+      "area_iqr": 724.0,
+      "mean_circularity": 0.8087721313687634,
+      "clumping_score": 0.949271123382549
+    },
+    "image_099.tif": {
+      "n_particles": 73,
+      "median_area": 450.0,
+      "area_iqr": 597.0,
+      "mean_circularity": 0.7918741555891067,
+      "clumping_score": 0.95138423220615
+    },
+    "image_046.tif": {
+      "n_particles": 66,
+      "median_area": 490.0,
+      "area_iqr": 1161.25,
+      "mean_circularity": 0.8445058254754083,
+      "clumping_score": 0.949459644909512
+    },
+    "image_002.tif": {
+      "n_particles": 71,
+      "median_area": 518.0,
+      "area_iqr": 663.0,
+      "mean_circularity": 0.7984635692808032,
+      "clumping_score": 0.9486548907232368
+    },
+    "image_051.tif": {
+      "n_particles": 65,
+      "median_area": 646.0,
+      "area_iqr": 845.0,
+      "mean_circularity": 0.809914155721105,
+      "clumping_score": 0.9486172647670243
+    },
+    "image_016.tif": {
+      "n_particles": 71,
+      "median_area": 357.0,
+      "area_iqr": 629.5,
+      "mean_circularity": 0.7694003127727517,
+      "clumping_score": 0.9532076156761295
+    },
+    "image_038.tif": {
+      "n_particles": 72,
+      "median_area": 445.0,
+      "area_iqr": 819.75,
+      "mean_circularity": 0.7929875520994328,
+      "clumping_score": 0.9504247791360353
+    },
+    "image_058.tif": {
+      "n_particles": 64,
+      "median_area": 563.5,
+      "area_iqr": 739.75,
+      "mean_circularity": 0.8025449699128158,
+      "clumping_score": 0.9571154110059009
+    },
+    "image_068.tif": {
+      "n_particles": 71,
+      "median_area": 457.0,
+      "area_iqr": 662.5,
+      "mean_circularity": 0.8009504421536586,
+      "clumping_score": 0.9549284779464101
+    },
+    "image_022.tif": {
+      "n_particles": 70,
+      "median_area": 367.0,
+      "area_iqr": 656.75,
+      "mean_circularity": 0.8091781614829366,
+      "clumping_score": 0.9479143997098295
+    },
+    "image_062.tif": {
+      "n_particles": 60,
+      "median_area": 536.0,
+      "area_iqr": 645.75,
+      "mean_circularity": 0.8134439453170245,
+      "clumping_score": 0.9532434925189588
+    },
+    "image_024.tif": {
+      "n_particles": 71,
+      "median_area": 459.0,
+      "area_iqr": 712.5,
+      "mean_circularity": 0.7900202738874273,
+      "clumping_score": 0.9643505287970129
+    },
+    "image_005.tif": {
+      "n_particles": 70,
+      "median_area": 595.5,
+      "area_iqr": 745.5,
+      "mean_circularity": 0.7922509225641193,
+      "clumping_score": 0.9573240379691993
+    },
+    "image_006.tif": {
+      "n_particles": 65,
+      "median_area": 439.0,
+      "area_iqr": 649.0,
+      "mean_circularity": 0.8122061463298272,
+      "clumping_score": 0.9632150932386764
+    },
+    "image_067.tif": {
+      "n_particles": 66,
+      "median_area": 646.5,
+      "area_iqr": 953.0,
+      "mean_circularity": 0.783437491109622,
+      "clumping_score": 0.9533975727501779
+    },
+    "image_082.tif": {
+      "n_particles": 64,
+      "median_area": 524.5,
+      "area_iqr": 855.25,
+      "mean_circularity": 0.8086993189955711,
+      "clumping_score": 0.9534721768840722
+    },
+    "image_019.tif": {
+      "n_particles": 65,
+      "median_area": 426.0,
+      "area_iqr": 858.0,
+      "mean_circularity": 0.8087906933280034,
+      "clumping_score": 0.9549604680194845
+    },
+    "image_079.tif": {
+      "n_particles": 63,
+      "median_area": 607.0,
+      "area_iqr": 764.0,
+      "mean_circularity": 0.8076792358502195,
+      "clumping_score": 0.9520600398223311
+    },
+    "image_043.tif": {
+      "n_particles": 64,
+      "median_area": 481.0,
+      "area_iqr": 671.75,
+      "mean_circularity": 0.7935636156309972,
+      "clumping_score": 0.9486926735503586
+    },
+    "image_090.tif": {
+      "n_particles": 69,
+      "median_area": 532.0,
+      "area_iqr": 876.0,
+      "mean_circularity": 0.8010347509411198,
+      "clumping_score": 0.9591706944797761
+    },
+    "image_020.tif": {
+      "n_particles": 67,
+      "median_area": 521.0,
+      "area_iqr": 811.0,
+      "mean_circularity": 0.7970927624815208,
+      "clumping_score": 0.9597647720147883
+    }
+  }
+}
