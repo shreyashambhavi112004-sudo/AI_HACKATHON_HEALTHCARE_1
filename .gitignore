@@ -1,0 +1,11 @@
+fingerprint_cache/
+app_cache/
+.venv/
+test_env/
+broken_session/
+backup/
+__pycache__/
+.DS_Store
+images/
+dataset/
+synthetic_dense/

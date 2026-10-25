@@ -1,0 +1,22 @@
+# PowderPrint - Python packages
+# Versions are intentionally not pinned here because I could not verify which versions your machine uses.
+# Run the command in the README ("Pin exact versions") to record the exact versions that work for you.
+
+numpy
+scipy
+pandas
+pillow
+matplotlib
+scikit-image
+tifffile
+
+# segmentation model (StarDist runs on TensorFlow)
+tensorflow
+csbdeep
+stardist
+
+# web app
+streamlit
+
+# optional: only needed to open the notebooks
+# jupyter
