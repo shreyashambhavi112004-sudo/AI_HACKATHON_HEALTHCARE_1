@@ -1,0 +1,6 @@
+set,mean_score,std_score,green_share,amber_share,red_share,top2_deviating
+held-out real,64.20304315766853,12.59182239242956,0.98,0.02,0.0,"clumping_score(38), area_iqr(34)"
+set A,17.217624908833248,1.3127468922755707,0.0,0.0,1.0,"clumping_score(50), median_area(50)"
+set B,17.6188877298394,1.2342280928350462,0.0,0.0,1.0,"median_area(50), area_iqr(50)"
+set C,9.818918973825724,1.4796675959348078,0.0,0.0,1.0,"clumping_score(50), area_iqr(42)"
+old synthetic,12.480391757371489,1.3766418755169938,0.0,0.0,1.0,"particles_per_image(50), median_area(47)"

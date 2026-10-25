@@ -1,0 +1,10 @@
+{
+  "threshold": 0.008815765380859375,
+  "flagged_images": [
+    "image_218.tif",
+    "image_000.tif"
+  ],
+  "total_images": 500,
+  "image_000_frac": 0.00275421142578125,
+  "image_218_frac": 0.002559661865234375
+}

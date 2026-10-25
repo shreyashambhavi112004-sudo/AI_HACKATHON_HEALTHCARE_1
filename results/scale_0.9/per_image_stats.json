@@ -1,0 +1,422 @@
+[
+  {
+    "n_particles": 18,
+    "median_area": 310.5,
+    "area_iqr": 900.5,
+    "mean_circularity": 0.8174768274915738,
+    "clumping_score": 0.3998949717736642
+  },
+  {
+    "n_particles": 46,
+    "median_area": 221.5,
+    "area_iqr": 376.25,
+    "mean_circularity": 0.8223019032415163,
+    "clumping_score": 0.31201204550524203
+  },
+  {
+    "n_particles": 21,
+    "median_area": 254.0,
+    "area_iqr": 330.0,
+    "mean_circularity": 0.8322474846558711,
+    "clumping_score": 0.09564431955038137
+  },
+  {
+    "n_particles": 51,
+    "median_area": 197.0,
+    "area_iqr": 486.5,
+    "mean_circularity": 0.8155357004772716,
+    "clumping_score": 0.5715999520134363
+  },
+  {
+    "n_particles": 33,
+    "median_area": 126.0,
+    "area_iqr": 432.0,
+    "mean_circularity": 0.8619913644164349,
+    "clumping_score": 0.10832830416415208
+  },
+  {
+    "n_particles": 36,
+    "median_area": 371.0,
+    "area_iqr": 453.5,
+    "mean_circularity": 0.8133979634306177,
+    "clumping_score": 0.3875089392133492
+  },
+  {
+    "n_particles": 26,
+    "median_area": 315.0,
+    "area_iqr": 654.5,
+    "mean_circularity": 0.8053964568659908,
+    "clumping_score": 0.2211816333083592
+  },
+  {
+    "n_particles": 33,
+    "median_area": 266.0,
+    "area_iqr": 557.0,
+    "mean_circularity": 0.7937182499733553,
+    "clumping_score": 0.5155208219477538
+  },
+  {
+    "n_particles": 25,
+    "median_area": 410.0,
+    "area_iqr": 891.0,
+    "mean_circularity": 0.8201262983094806,
+    "clumping_score": 0.2551466728873856
+  },
+  {
+    "n_particles": 43,
+    "median_area": 159.0,
+    "area_iqr": 401.5,
+    "mean_circularity": 0.8308334019398957,
+    "clumping_score": 0.19207317073170732
+  },
+  {
+    "n_particles": 20,
+    "median_area": 145.0,
+    "area_iqr": 397.25,
+    "mean_circularity": 0.8229298794796884,
+    "clumping_score": 0.06811073786632689
+  },
+  {
+    "n_particles": 15,
+    "median_area": 300.0,
+    "area_iqr": 751.0,
+    "mean_circularity": 0.781704174512499,
+    "clumping_score": 0.5768403329903657
+  },
+  {
+    "n_particles": 32,
+    "median_area": 336.0,
+    "area_iqr": 838.75,
+    "mean_circularity": 0.8089947025742185,
+    "clumping_score": 0.32556290074059346
+  },
+  {
+    "n_particles": 17,
+    "median_area": 641.0,
+    "area_iqr": 992.0,
+    "mean_circularity": 0.8122571372457653,
+    "clumping_score": 0.23124281171774574
+  },
+  {
+    "n_particles": 34,
+    "median_area": 132.5,
+    "area_iqr": 333.0,
+    "mean_circularity": 0.8408954792542568,
+    "clumping_score": 0.3595724003887269
+  },
+  {
+    "n_particles": 43,
+    "median_area": 179.0,
+    "area_iqr": 270.5,
+    "mean_circularity": 0.795316826391315,
+    "clumping_score": 0.41179503041550675
+  },
+  {
+    "n_particles": 19,
+    "median_area": 287.0,
+    "area_iqr": 445.5,
+    "mean_circularity": 0.8220214349173706,
+    "clumping_score": 0.880173766139737
+  },
+  {
+    "n_particles": 11,
+    "median_area": 276.0,
+    "area_iqr": 756.0,
+    "mean_circularity": 0.8377710549691091,
+    "clumping_score": 0.2356247992290395
+  },
+  {
+    "n_particles": 33,
+    "median_area": 324.0,
+    "area_iqr": 744.0,
+    "mean_circularity": 0.7766437126570372,
+    "clumping_score": 0.6819836214740673
+  },
+  {
+    "n_particles": 17,
+    "median_area": 204.0,
+    "area_iqr": 501.0,
+    "mean_circularity": 0.8078460199799045,
+    "clumping_score": 0.7391975308641975
+  },
+  {
+    "n_particles": 21,
+    "median_area": 108.0,
+    "area_iqr": 533.0,
+    "mean_circularity": 0.850934275454264,
+    "clumping_score": 0.04022082018927445
+  },
+  {
+    "n_particles": 37,
+    "median_area": 176.0,
+    "area_iqr": 294.0,
+    "mean_circularity": 0.8158970777708814,
+    "clumping_score": 0.4385342265205625
+  },
+  {
+    "n_particles": 13,
+    "median_area": 228.0,
+    "area_iqr": 120.0,
+    "mean_circularity": 0.8399149883729381,
+    "clumping_score": 0.40298507462686567
+  },
+  {
+    "n_particles": 49,
+    "median_area": 319.0,
+    "area_iqr": 562.0,
+    "mean_circularity": 0.807838733203072,
+    "clumping_score": 0.4175985874043555
+  },
+  {
+    "n_particles": 32,
+    "median_area": 362.5,
+    "area_iqr": 766.25,
+    "mean_circularity": 0.8185304491690123,
+    "clumping_score": 0.6224269246603541
+  },
+  {
+    "n_particles": 19,
+    "median_area": 153.0,
+    "area_iqr": 352.0,
+    "mean_circularity": 0.84476472516715,
+    "clumping_score": 0.13810015487867836
+  },
+  {
+    "n_particles": 11,
+    "median_area": 724.0,
+    "area_iqr": 803.5,
+    "mean_circularity": 0.8458739220832379,
+    "clumping_score": 0.056434962147281484
+  },
+  {
+    "n_particles": 36,
+    "median_area": 183.5,
+    "area_iqr": 449.75,
+    "mean_circularity": 0.8212304074106933,
+    "clumping_score": 0.10074688796680498
+  },
+  {
+    "n_particles": 33,
+    "median_area": 197.0,
+    "area_iqr": 715.0,
+    "mean_circularity": 0.8233765948635804,
+    "clumping_score": 0.5150191734128675
+  },
+  {
+    "n_particles": 24,
+    "median_area": 135.0,
+    "area_iqr": 348.25,
+    "mean_circularity": 0.8692387363561046,
+    "clumping_score": 0.22335271317829458
+  },
+  {
+    "n_particles": 11,
+    "median_area": 392.0,
+    "area_iqr": 853.5,
+    "mean_circularity": 0.7821132756143488,
+    "clumping_score": 0.5446055541902187
+  },
+  {
+    "n_particles": 31,
+    "median_area": 232.0,
+    "area_iqr": 531.5,
+    "mean_circularity": 0.8185715116596335,
+    "clumping_score": 0.5670412561576355
+  },
+  {
+    "n_particles": 31,
+    "median_area": 332.0,
+    "area_iqr": 684.0,
+    "mean_circularity": 0.8063969222375009,
+    "clumping_score": 0.13248520434316605
+  },
+  {
+    "n_particles": 23,
+    "median_area": 184.0,
+    "area_iqr": 393.5,
+    "mean_circularity": 0.8080912623767867,
+    "clumping_score": 0.39091425326519025
+  },
+  {
+    "n_particles": 28,
+    "median_area": 193.5,
+    "area_iqr": 705.0,
+    "mean_circularity": 0.817874033475395,
+    "clumping_score": 0.19669565217391305
+  },
+  {
+    "n_particles": 28,
+    "median_area": 128.0,
+    "area_iqr": 334.75,
+    "mean_circularity": 0.8453596980578102,
+    "clumping_score": 0.647479674796748
+  },
+  {
+    "n_particles": 39,
+    "median_area": 317.0,
+    "area_iqr": 592.0,
+    "mean_circularity": 0.797029122778029,
+    "clumping_score": 0.5087098201713803
+  },
+  {
+    "n_particles": 10,
+    "median_area": 187.5,
+    "area_iqr": 523.5,
+    "mean_circularity": 0.8243296763447919,
+    "clumping_score": 0.5200196110475568
+  },
+  {
+    "n_particles": 28,
+    "median_area": 127.5,
+    "area_iqr": 213.25,
+    "mean_circularity": 0.8325593603703091,
+    "clumping_score": 0.8004319230391675
+  },
+  {
+    "n_particles": 46,
+    "median_area": 310.5,
+    "area_iqr": 473.25,
+    "mean_circularity": 0.8029647387896093,
+    "clumping_score": 0.40623199539082006
+  },
+  {
+    "n_particles": 15,
+    "median_area": 328.0,
+    "area_iqr": 634.5,
+    "mean_circularity": 0.8685117604512046,
+    "clumping_score": 0.03146147453401401
+  },
+  {
+    "n_particles": 29,
+    "median_area": 244.0,
+    "area_iqr": 793.0,
+    "mean_circularity": 0.8483626149120128,
+    "clumping_score": 0.3314963571828881
+  },
+  {
+    "n_particles": 16,
+    "median_area": 204.0,
+    "area_iqr": 410.0,
+    "mean_circularity": 0.8114353606849953,
+    "clumping_score": 0.3664027963400843
+  },
+  {
+    "n_particles": 12,
+    "median_area": 997.5,
+    "area_iqr": 1718.25,
+    "mean_circularity": 0.8377627822913558,
+    "clumping_score": 0.0
+  },
+  {
+    "n_particles": 50,
+    "median_area": 138.5,
+    "area_iqr": 258.25,
+    "mean_circularity": 0.8168370101136407,
+    "clumping_score": 0.6157137541857869
+  },
+  {
+    "n_particles": 19,
+    "median_area": 99.0,
+    "area_iqr": 345.5,
+    "mean_circularity": 0.8420625026110486,
+    "clumping_score": 0.12188919164396003
+  },
+  {
+    "n_particles": 31,
+    "median_area": 265.0,
+    "area_iqr": 700.5,
+    "mean_circularity": 0.820151913009753,
+    "clumping_score": 0.2915344586876507
+  },
+  {
+    "n_particles": 42,
+    "median_area": 225.5,
+    "area_iqr": 353.5,
+    "mean_circularity": 0.8106686638944185,
+    "clumping_score": 0.4651610289649585
+  },
+  {
+    "n_particles": 12,
+    "median_area": 322.0,
+    "area_iqr": 478.0,
+    "mean_circularity": 0.8253159436906587,
+    "clumping_score": 0.5221223021582734
+  },
+  {
+    "n_particles": 21,
+    "median_area": 99.0,
+    "area_iqr": 164.0,
+    "mean_circularity": 0.8323124373486683,
+    "clumping_score": 0.01305084745762712
+  },
+  {
+    "n_particles": 14,
+    "median_area": 204.0,
+    "area_iqr": 369.75,
+    "mean_circularity": 0.8025533050640854,
+    "clumping_score": 0.3585816547361412
+  },
+  {
+    "n_particles": 44,
+    "median_area": 228.0,
+    "area_iqr": 505.0,
+    "mean_circularity": 0.7962417696896149,
+    "clumping_score": 0.42013954365453515
+  },
+  {
+    "n_particles": 45,
+    "median_area": 224.0,
+    "area_iqr": 537.0,
+    "mean_circularity": 0.8097812113152544,
+    "clumping_score": 0.41189442982144125
+  },
+  {
+    "n_particles": 40,
+    "median_area": 271.0,
+    "area_iqr": 472.75,
+    "mean_circularity": 0.8090072491964266,
+    "clumping_score": 0.5050725053017711
+  },
+  {
+    "n_particles": 26,
+    "median_area": 241.5,
+    "area_iqr": 607.25,
+    "mean_circularity": 0.8392183185917553,
+    "clumping_score": 0.13445583211322595
+  },
+  {
+    "n_particles": 31,
+    "median_area": 445.0,
+    "area_iqr": 1039.5,
+    "mean_circularity": 0.8063325069392788,
+    "clumping_score": 0.19714315359872722
+  },
+  {
+    "n_particles": 31,
+    "median_area": 188.0,
+    "area_iqr": 536.5,
+    "mean_circularity": 0.847113629579586,
+    "clumping_score": 0.6331978831978832
+  },
+  {
+    "n_particles": 34,
+    "median_area": 226.5,
+    "area_iqr": 502.75,
+    "mean_circularity": 0.8313713436012272,
+    "clumping_score": 0.37189828212548487
+  },
+  {
+    "n_particles": 12,
+    "median_area": 36.5,
+    "area_iqr": 26.5,
+    "mean_circularity": 0.7862458398723939,
+    "clumping_score": 0.9405560882070949
+  },
+  {
+    "n_particles": 20,
+    "median_area": 161.0,
+    "area_iqr": 216.75,
+    "mean_circularity": 0.8385086302360844,
+    "clumping_score": 0.20383344348975546
+  }
+]
